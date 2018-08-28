@@ -1,4 +1,4 @@
-﻿ l_english:
+ l_english:
  
  TAB: "    "
 
@@ -6,23 +6,23 @@
  # HULL SIZES & MODULES
  ################################################################################################################################################
 
- STRIKECRUISER: "Strike Cruiser"
- BATTLECRUISER: "Battlecruiser"
- CARRIER: "Carrier"
- DREADNOUGHT: "Dreadnought"
- FLAGSHIP: "Flagship"
+ STRIKECRUISER: "타격순양함"
+ BATTLECRUISER: "전투순양함"
+ CARRIER: "항공모함"
+ DREADNOUGHT: "드레드노트"
+ FLAGSHIP: "기함"
  SUPPORTSHIP: "Fleet Support Ship"
 
- StrikeCruiser: "Strike Cruiser"
- StrikeCruiser_plural: "Strike Cruisers"
- Battlecruiser: "Battlecruiser"
+ StrikeCruiser: "타격순양함"
+ StrikeCruiser_plural: "타격순양함s"
+ Battlecruiser: "전투순양함"
  Battlecruiser_plural: "Battlecruisers" 
- Carrier: "Carrier"
- Carrier_plural: "Carriers"
- Dreadnought: "Dreadnought"
- Dreadnought_plural: "Dreadnoughts"
- Flagship: "Flagship"
- Flagship_plural: "Flagships"
+ Carrier: "항공모함"
+ Carrier_plural: "항공모함s"
+ Dreadnought: "드레드노트"
+ Dreadnought_plural: "드레드노트s"
+ Flagship: "기함"
+ Flagship_plural: "기함s"
  supportship:0 "Fleet Support Ship"
  supportship_plural:0 "Fleet Support Ships"
 
@@ -154,32 +154,32 @@
  tech_pd_destroyer_1: "PD Destroyer Upgrade"
  tech_pd_destroyer_1_desc: "Advanced construction techniques allow Destroyers to equip a large array of point defense weapons."
 
- tech_StrikeCruiser_1: "Strike Cruiser"
- tech_StrikeCruiser_1_desc: "New facilities and construction techniques allow us to now build Strike Cruiser-class military vessels."
+ tech_StrikeCruiser_1: "타격순양함"
+ tech_StrikeCruiser_1_desc: "New facilities and construction techniques allow us to now build 타격순양함-class military vessels."
 
- tech_Battlecruiser_1: "Battlecruiser"
- tech_Battlecruiser_1_desc: "New facilities and construction techniques allow us to now build Battlecruiser-class military vessels."
+ tech_Battlecruiser_1: "전투순양함"
+ tech_Battlecruiser_1_desc: "New facilities and construction techniques allow us to now build 전투순양함-class military vessels."
 
- tech_lightcarrier_1: "Light Carrier Upgrade"
- tech_lightcarrier_1_desc: "As our ship building capabilities continue to increase, we continue to look for new ways to advance our current ship class layouts. This specialized upgrade for the Battlecruiser turns it into a Light Carrier, with the ability to support a small number of fighter bays."
+ tech_lightcarrier_1: "Light 항공모함 Upgrade"
+ tech_lightcarrier_1_desc: "As our ship building capabilities continue to increase, we continue to look for new ways to advance our current ship class layouts. This specialized upgrade for the 전투순양함 turns it into a Light 항공모함, with the ability to support a small number of fighter bays."
 
- tech_Carrier_1: "Carrier"
- tech_Carrier_1_desc: "New facilities and construction techniques allow us to now build Carrier-class military vessels."
+ tech_Carrier_1: "항공모함"
+ tech_Carrier_1_desc: "New facilities and construction techniques allow us to now build 항공모함-class military vessels."
 
- tech_heavycarrier_1: "Heavy Carrier Upgrade"
- tech_heavycarrier_1_desc: "As our ship building capabilities continue to increase, we continue to look for new ways to advance our current ship class layouts. This specialized upgrade for the Carrier turns it into a Heavy Carrier, with the ability to support more fighter bays."
+ tech_heavycarrier_1: "Heavy 항공모함 Upgrade"
+ tech_heavycarrier_1_desc: "As our ship building capabilities continue to increase, we continue to look for new ways to advance our current ship class layouts. This specialized upgrade for the 항공모함 turns it into a Heavy 항공모함, with the ability to support more fighter bays."
 
- tech_supercarrier_1: "Supercarrier Upgrade"
- tech_supercarrier_1_desc: "As our ship building capabilities continue to increase, we continue to look for new ways to advance our current ship class layouts. This specialized upgrade for the Battlecruiser turns it into a Supercarrier, with the ability to support a huge number of fighter bays."
+ tech_supercarrier_1: "Super항공모함 Upgrade"
+ tech_supercarrier_1_desc: "As our ship building capabilities continue to increase, we continue to look for new ways to advance our current ship class layouts. This specialized upgrade for the 전투순양함 turns it into a Super항공모함, with the ability to support a huge number of fighter bays."
 
  tech_spitfire_1: "Spitfire Battleship Specialization"
  tech_spitfire_1_desc: "With the increasing risk and expense of smaller military ship classes threatening our Capital Ships, our engineers have a few blueprints that could adapt the Battleship into an anti-Corvette/Destroyer powerhouse, although at a higher production cost."
 
- tech_Dreadnought_1: "Dreadnought"
- tech_Dreadnought_1_desc: "New facilities and construction techniques allow us to now build Dreadnought-class military vessels."
+ tech_Dreadnought_1: "드레드노트"
+ tech_Dreadnought_1_desc: "New facilities and construction techniques allow us to now build 드레드노트-class military vessels."
 
- tech_Flagship_1: "The Flagship"
- tech_Flagship_1_desc: "After many decades of combat and engineering experience, we now have the capability to build one massive and unique Flagship to represent our Empire." 
+ tech_Flagship_1: "The 기함"
+ tech_Flagship_1_desc: "After many decades of combat and engineering experience, we now have the capability to build one massive and unique 기함 to represent our Empire." 
 
  tech_supportship_1:0 "Fleet Support Ship"
  tech_supportship_1_desc:0 "As our fleets grow in size and the distance they travel from home increases, it becomes necessary to support them internally instead of trying to maintain long range supply lines. The Fleet Support Ship is the answer to this problem." 
@@ -211,10 +211,10 @@
  tech_singularity_power: "Singularity Power"
  tech_singularity_power_desc: "Reactor powered by a quantum singularity."
 
- tech_bh_power_3: "Advanced Flagship Reactors"
+ tech_bh_power_3: "Advanced 기함 Reactors"
  tech_bh_power_3_desc: "Reactor powered by an artificial black hole."
 
- tech_bh_power_2: "Improved Flagship Reactors"
+ tech_bh_power_2: "Improved 기함 Reactors"
  tech_bh_power_2_desc: "Reactor powered by an artificial black hole."
 
  tech_optimized_enigmatic_power: "Optimized Dark Matter Reactor"
@@ -242,40 +242,40 @@
  tech_nsc_dlc_check: "Apocalypse Now?"
  tech_nsc_dlc_check_desc: "This is an automatic starting tech to check for the Apocalypse DLC."
 
- tech_strikecruiser_build_speed: "Standardized Strike Cruiser Patterns"
+ tech_strikecruiser_build_speed: "Standardized 타격순양함 Patterns"
  tech_strikecruiser_build_speed_desc: "Establishing new standard for the modeling and construction of Strike Cruisers greatly improves the efficiency of the production pipeline."
  tech_strikecruiser_hull_1: "Improved Strike Cruiser Hulls"
  tech_strikecruiser_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable Strike Cruiser"
  tech_strikecruiser_hull_2: "Advanced Strike Cruiser Hulls"
  tech_strikecruiser_hull_2_desc: "The latest generation of Strike Cruiser hulls have optimized structural integrity fields and improved bulkheads."
 
- tech_battlecruiser_build_speed: "Standardized Battlecruiser Patterns"
+ tech_battlecruiser_build_speed: "Standardized 전투순양함 Patterns"
  tech_battlecruiser_build_speed_desc: "Establishing new standard for the modeling and construction of Battlecruisers greatly improves the efficiency of the production pipeline."
- tech_battlecruiser_hull_1: "Improved Battlecruiser Hulls"
- tech_battlecruiser_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable Battlecruisers"
- tech_battlecruiser_hull_2: "Advanced Battlecruiser Hulls"
- tech_battlecruiser_hull_2_desc: "The latest generation of Battlecruiser hulls have optimized structural integrity fields and improved bulkheads."
+ tech_battlecruiser_hull_1: "Improved 전투순양함 Hulls"
+ tech_battlecruiser_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable 전투순양함s"
+ tech_battlecruiser_hull_2: "Advanced 전투순양함 Hulls"
+ tech_battlecruiser_hull_2_desc: "The latest generation of 전투순양함 hulls have optimized structural integrity fields and improved bulkheads."
 
- tech_carrier_build_speed: "Standardized Carrier Patterns"
- tech_carrier_build_speed_desc: "Establishing new standard for the modeling and construction of Carriers greatly improves the efficiency of the production pipeline."
- tech_carrier_hull_1: "Improved Carrier Hulls"
- tech_carrier_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable Carriers"
- tech_carrier_hull_2: "Advanced Carrier Hulls"
- tech_carrier_hull_2_desc: "The latest generation of Carrier hulls have optimized structural integrity fields and improved bulkheads."
+ tech_carrier_build_speed: "Standardized 항공모함 Patterns"
+ tech_carrier_build_speed_desc: "Establishing new standard for the modeling and construction of 항공모함s greatly improves the efficiency of the production pipeline."
+ tech_carrier_hull_1: "Improved 항공모함 Hulls"
+ tech_carrier_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable 항공모함s"
+ tech_carrier_hull_2: "Advanced 항공모함 Hulls"
+ tech_carrier_hull_2_desc: "The latest generation of 항공모함 hulls have optimized structural integrity fields and improved bulkheads."
 
- tech_dreadnought_build_speed: "Standardized Dreadnought Patterns"
- tech_dreadnought_build_speed_desc: "Establishing new standard for the modeling and construction of Dreadnoughts greatly improves the efficiency of the production pipeline."
- tech_dreadnought_hull_1: "Improved Dreadnought Hulls"
- tech_dreadnought_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable Dreadnoughts"
- tech_dreadnought_hull_2: "Advanced Dreadnought Hulls"
- tech_dreadnought_hull_2_desc: "The latest generation of Dreadnought hulls have optimized structural integrity fields and improved bulkheads."
+ tech_dreadnought_build_speed: "Standardized 드레드노트 Patterns"
+ tech_dreadnought_build_speed_desc: "Establishing new standard for the modeling and construction of 드레드노트s greatly improves the efficiency of the production pipeline."
+ tech_dreadnought_hull_1: "Improved 드레드노트 Hulls"
+ tech_dreadnought_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable 드레드노트s"
+ tech_dreadnought_hull_2: "Advanced 드레드노트 Hulls"
+ tech_dreadnought_hull_2_desc: "The latest generation of 드레드노트 hulls have optimized structural integrity fields and improved bulkheads."
 
- tech_flagship_build_speed: "Standardized Flagship Patterns"
- tech_flagship_build_speed_desc: "Establishing new standard for the modeling and construction of the Flagship greatly improves the efficiency of the production pipeline."
- tech_flagship_hull_1: "Improved Flagship Hulls"
- tech_flagship_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable Flagships"
- tech_flagship_hull_2: "Advanced Flagship Hulls"
- tech_flagship_hull_2_desc: "The latest generation of Flagship hulls have optimized structural integrity fields and improved bulkheads."
+ tech_flagship_build_speed: "Standardized 기함 Patterns"
+ tech_flagship_build_speed_desc: "Establishing new standard for the modeling and construction of the 기함 greatly improves the efficiency of the production pipeline."
+ tech_flagship_hull_1: "Improved 기함 Hulls"
+ tech_flagship_hull_1_desc: "Advances in building techniques will allow for the construction of sturdier and more durable 기함s"
+ tech_flagship_hull_2: "Advanced 기함 Hulls"
+ tech_flagship_hull_2_desc: "The latest generation of 기함 hulls have optimized structural integrity fields and improved bulkheads."
  
  tech_stronghold_upgrades: "Improved Starbases"
  tech_stronghold_upgrades_desc: "Establishing new standard for the modeling and construction of all Starbases greatly improves the efficiency of the production pipeline."
@@ -299,7 +299,7 @@
  tech_defense_platforms_4_desc: "Improved technolgies allow us to construct more defense platforms for our starbases."
 
  tech_nsc_ai_computer_1: "Artifical Intellgience Combat System"
- tech_nsc_ai_computer_1_desc: "This extremely advanced computer system can intelligently run all combat systems on a ship without taking over the helm, allowing for complete movement control during combat. Available for Carriers, Fleet Support Ships, and the Flagship."
+ tech_nsc_ai_computer_1_desc: "This extremely advanced computer system can intelligently run all combat systems on a ship without taking over the helm, allowing for complete movement control during combat. Available for Carriers, Fleet Support Ships, and the 기함."
 
  tech_tomahawk_cruise_missile_1: "Tomahawk Advanced Cruise Missile"
  tech_tomahawk_cruise_missile_1_desc: "An extremely expensive anti-capital ship missile with a very long range and high damage. Very useful for defense stations or long range artillery ships."
@@ -325,8 +325,8 @@
  TECH_UNLOCK_OPTIMIZED_ENIGMATIC_POWER_TITLE: "§HUnlocks Component:§! $OPTIMIZED_ENIGMATIC_REACTOR$"
  TECH_UNLOCK_OPTIMIZED_ENIGMATIC_POWER_DESC: "§H$OPTIMIZED_ENIGMATIC_REACTOR$§!\n$OPTIMIZED_ENIGMATIC_REACTOR_DESC$"
  
- TECH_UNLOCK_BH_POWER_TITLE: "§HUnlocks Component:§! $FLAGSHIP_BLACK_HOLE_REACTOR_1$"
- TECH_UNLOCK_BH_POWER_DESC: "§H$FLAGSHIP_BLACK_HOLE_REACTOR_1$§!\n$FLAGSHIP_BLACK_HOLE_REACTOR_1_DESC$"
+ TECH_UNLOCK_BH_POWER_TITLE: "§HUnlocks Component:§! $기함_BLACK_HOLE_REACTOR_1$"
+ TECH_UNLOCK_BH_POWER_DESC: "§H$기함_BLACK_HOLE_REACTOR_1$§!\n$기함_BLACK_HOLE_REACTOR_1_DESC$"
  
  TECH_UNLOCK_PD_DESTROYER_CONSTRUCTION_TITLE: "§HUnlocks Section Type:§! PD Destroyer"
  TECH_UNLOCK_PD_DESTROYER_CONSTRUCTION_DESC: "§HPD Destroyer§!\nAdvanced construction techniques allow Destroyers to equip a large array of point defense weapons."
@@ -334,29 +334,29 @@
  TECH_UNLOCK_STRIKECRUISER_CONSTRUCTION_TITLE: "§HUnlocks Ship Type:§! Strike Cruiser"
  TECH_UNLOCK_STRIKECRUISER_CONSTRUCTION_DESC: "§HStrike Cruiser§!\nThe Strike Cruiser's primary purpose is to interdict an escaping enemy fleet with a special aura and slow it down long enough for larger ships to catch up and enter the engagement."
 
- TECH_UNLOCK_BATTLECRUISER_CONSTRUCTION_TITLE: "§HUnlocks Ship Type:§! Battlecruiser"
- TECH_UNLOCK_BATTLECRUISER_CONSTRUCTION_DESC: "§HBattlecruiser§!\nThe Battlecruiser is a heavier, slower, and more powerful version of the Cruiser. Its primary role is to dish out nearly as much damage as a Battleship, but at a faster speed and lower cost. This ability comes with a price, however, as the ship’s utilities and defenses cannot match those of a fully equipped Battleship."
+ TECH_UNLOCK_BATTLECRUISER_CONSTRUCTION_TITLE: "§HUnlocks Ship Type:§! 전투순양함"
+ TECH_UNLOCK_BATTLECRUISER_CONSTRUCTION_DESC: "§H전투순양함§!\nThe 전투순양함 is a heavier, slower, and more powerful version of the Cruiser. Its primary role is to dish out nearly as much damage as a Battleship, but at a faster speed and lower cost. This ability comes with a price, however, as the ship’s utilities and defenses cannot match those of a fully equipped Battleship."
 
- TECH_UNLOCK_LIGHTCARRIER_CONSTRUCTION_TITLE: "§HUnlocks Section Type:§! Light Carrier"
- TECH_UNLOCK_LIGHTCARRIER_CONSTRUCTION_DESC: "§HLight Carrier§!\nThis specialized upgrade for the Battlecruiser turns it into a Light Carrier, with the ability to support a small number of fighter bays."
+ TECH_UNLOCK_LIGHTCARRIER_CONSTRUCTION_TITLE: "§HUnlocks Section Type:§! Light 항공모함"
+ TECH_UNLOCK_LIGHTCARRIER_CONSTRUCTION_DESC: "§HLight 항공모함§!\nThis specialized upgrade for the 전투순양함 turns it into a Light 항공모함, with the ability to support a small number of fighter bays."
 
- TECH_UNLOCK_CARRIER_CONSTRUCTION_TITLE: "§HUnlocks Ship Type:§! Carrier"
- TECH_UNLOCK_CARRIER_CONSTRUCTION_DESC: "§HCarrier§!\nThe Carrier serves as the home base for its numerous strike craft and can be upgraded to maximize its structural space for even more hangar bays."
+ TECH_UNLOCK_CARRIER_CONSTRUCTION_TITLE: "§HUnlocks Ship Type:§! 항공모함"
+ TECH_UNLOCK_CARRIER_CONSTRUCTION_DESC: "§H항공모함§!\nThe 항공모함 serves as the home base for its numerous strike craft and can be upgraded to maximize its structural space for even more hangar bays."
 
- TECH_UNLOCK_HEAVYCARRIER_CONSTRUCTION_TITLE: "§HUnlocks Section Type:§! Heavy Carrier"
- TECH_UNLOCK_HEAVYCARRIER_CONSTRUCTION_DESC: "§HHeavy Carrier§!\nAdvanced miniaturization and optimization techniques allow for new Carrier sections that can house larger numbers of fighters."
+ TECH_UNLOCK_HEAVYCARRIER_CONSTRUCTION_TITLE: "§HUnlocks Section Type:§! Heavy 항공모함"
+ TECH_UNLOCK_HEAVYCARRIER_CONSTRUCTION_DESC: "§HHeavy 항공모함§!\nAdvanced miniaturization and optimization techniques allow for new 항공모함 sections that can house larger numbers of fighters."
 
- TECH_UNLOCK_SUPERCARRIER_CONSTRUCTION_TITLE: "§HUnlocks Section Type:§! Supercarrier"
- TECH_UNLOCK_SUPERCARRIER_CONSTRUCTION_DESC: "§HSupercarrier§!\nAdvanced miniaturization and optimization techniques allow for new Carrier sections that can house huge numbers of fighters."
+ TECH_UNLOCK_SUPERCARRIER_CONSTRUCTION_TITLE: "§HUnlocks Section Type:§! Super항공모함"
+ TECH_UNLOCK_SUPERCARRIER_CONSTRUCTION_DESC: "§HSuper항공모함§!\nAdvanced miniaturization and optimization techniques allow for new 항공모함 sections that can house huge numbers of fighters."
 
  TECH_UNLOCK_SPITFIRE_CONSTRUCTION_TITLE: "§HSpitfire Battleship Upgrade§!"
  TECH_UNLOCK_SPITFIRE_CONSTRUCTION_DESC: "New blueprints for entirely S-slot Battleship hulls would be an effective counter to the threat of smaller ships to our expensive Capital Ships."
 
- TECH_UNLOCK_DREADNOUGHT_CONSTRUCTION_TITLE: "§HUnlocks Ship Type:§! Dreadnought"
- TECH_UNLOCK_DREADNOUGHT_CONSTRUCTION_DESC: "§HDreadnought§!\nThe Dreadnought is a very heavy version of the Battleship. It features very heavy weapons and defenses, and is designed to put out damage as well as take it."
+ TECH_UNLOCK_DREADNOUGHT_CONSTRUCTION_TITLE: "§HUnlocks Ship Type:§! 드레드노트"
+ TECH_UNLOCK_DREADNOUGHT_CONSTRUCTION_DESC: "§H드레드노트§!\nThe 드레드노트 is a very heavy version of the Battleship. It features very heavy weapons and defenses, and is designed to put out damage as well as take it."
 
- TECH_UNLOCK_FLAGSHIP_CONSTRUCTION_TITLE: "§HUnlocks Ship Type:§! Flagship"
- TECH_UNLOCK_FLAGSHIP_CONSTRUCTION_DESC: "§HFlagship§!\nThe largest ship design ever conceived, the Flagship boasts a massive amount of firepower and armor, provides extensive bonuses, and costs a significant amount of an empire's total resources to build and maintain."
+ TECH_UNLOCK_FLAGSHIP_CONSTRUCTION_TITLE: "§HUnlocks Ship Type:§! 기함"
+ TECH_UNLOCK_FLAGSHIP_CONSTRUCTION_DESC: "§H기함§!\nThe largest ship design ever conceived, the 기함 boasts a massive amount of firepower and armor, provides extensive bonuses, and costs a significant amount of an empire's total resources to build and maintain."
 
  TECH_UNLOCK_SUPPORTSHIP_CONSTRUCTION_TITLE:0 "Fleet Support Ship"
  TECH_UNLOCK_SUPPORTSHIP_CONSTRUCTION_DESC:0 "§HFleet Support Ship§!\nAs our fleets grow in size and the distance they travel from home increases, it becomes necessary to support them internally instead of trying to maintain long range supply lines. The Fleet Support Ship is the answer to this problem."
@@ -389,7 +389,7 @@
  TECH_UNLOCK_POWER_STATON_CONSTRUCTION_DESC: "§HPower Station§!\nSystem wide energy grid that enhances energy production for the entire system."
 
  TECH_UNLOCK_AICOMPUTER_CONSTRUCTION_TITLE: "§HUnlocks Combat Computer:§! Artificial Intelligence Combat System"
- TECH_UNLOCK_AICOMPUTER_CONSTRUCTION_DESC: "§HAI Combat System§!\nThis extremely advanced computer system can intelligently run all combat systems on a ship without taking over the helm, allowing for complete movement control during combat. Available for Carriers, Fleet Support Ships, and the Flagship."
+ TECH_UNLOCK_AICOMPUTER_CONSTRUCTION_DESC: "§HAI Combat System§!\nThis extremely advanced computer system can intelligently run all combat systems on a ship without taking over the helm, allowing for complete movement control during combat. Available for 항공모함s, Fleet Support Ships, and the 기함."
 
  TECH_UNLOCK_CRUISEMISSILE_CONSTRUCTION_TITLE: "§HUnlocks Weapon:§! Tomahawk Advanced Cruise Missile"
  TECH_UNLOCK_CRUISEMISSILE_CONSTRUCTION_DESC: "§HTomahawk Advanced Cruise Missile§!\nAn extremely expensive anti-capital ship missile with a very long range and high damage. Very useful for defense stations or long range artillery ships."
@@ -426,11 +426,11 @@
 
  nsc_strike_cruiser_aura: "Strike Cruiser Advanced Combat Systems"
  nsc_titan_aura: "Titan Command Network"
- nsc_flagship_aura: "Flagship Command Network"
+ nsc_flagship_aura: "기함 Command Network"
 
  NSC_STRIKE_CRUISER_AURA: "Strike Cruiser Advanced Combat Systems"
  NSC_TITAN_AURA: "Titan Command Network"
- NSC_FLAGSHIP_AURA: "Flagship Command Network"
+ NSC_FLAGSHIP_AURA: "기함 Command Network"
 
  special_ship_slot: "Special Component"
  special_ship_slot_DESC: "A special component slot."
@@ -796,7 +796,7 @@
 
  BATTLECRUISER_STERN_M2: "Broadside Stern"
  BATTLECRUISER_STERN_S3: "Spitfire Stern"
- BATTLECRUISER_STERN_PD3: "Point Defense Stern"
+ 전투순양함_STERN_PD3: "Point Defense Stern"
 #######################################
  BATTLESHIP_BOW_L1M1S2: "Coverage Bow"
  BATTLESHIP_BOW_L3: "Artillery Bow"
@@ -984,32 +984,32 @@
 # MODIFIERS
 ################################################################################################################################################
 
- shipsize_StrikeCruiser_upkeep_mult: "Strike Cruiser Upkeep"
- shipsize_StrikeCruiser_construction_speed_mult: "Strike Cruiser Construction Speed"
- shipsize_StrikeCruiser_hull_add: "Strike Cruiser Hull Points"
+ shipsize_StrikeCruiser_upkeep_mult: "타격순양함 Upkeep"
+ shipsize_StrikeCruiser_construction_speed_mult: "타격순양함 Construction Speed"
+ shipsize_StrikeCruiser_hull_add: "타격순양함 Hull Points"
  shipsize_StrikeCruiser_build_speed_mult: "Strike Cruiser Build Speed"
- shipsize_StrikeCruiser_build_cost_mult: "Strike Cruiser Build Cost"
+ shipsize_StrikeCruiser_build_cost_mult: "타격순양함 Build Cost"
 
- shipsize_Battlecruiser_upkeep_mult: "Battlecruiser Upkeep"
- shipsize_Battlecruiser_construction_speed_mult: "Battlecruiser Construction Speed"
- shipsize_Battlecruiser_hull_add: "Battlecruiser Hull Points"
- shipsize_Battlecruiser_build_speed_mult: "Battlecruiser Build Speed"
- shipsize_Battlecruiser_build_cost_mult: "Battlecruiser Build Cost"
+ shipsize_Battlecruiser_upkeep_mult: "전투순양함 Upkeep"
+ shipsize_Battlecruiser_construction_speed_mult: "전투순양함 Construction Speed"
+ shipsize_Battlecruiser_hull_add: "전투순양함 Hull Points"
+ shipsize_Battlecruiser_build_speed_mult: "전투순양함 Build Speed"
+ shipsize_Battlecruiser_build_cost_mult: "전투순양함 Build Cost"
 
- shipsize_Carrier_upkeep_mult: "Carrier Upkeep"
- shipsize_Carrier_construction_speed_mult: "Carrier Construction Speed"
- shipsize_Carrier_hull_add: "Carrier Hull Points"
- shipsize_Carrier_build_speed_mult: "Carrier Build Speed"
- shipsize_Carrier_build_cost_mult: "Carrier Build Cost"
+ shipsize_Carrier_upkeep_mult: "항공모함 Upkeep"
+ shipsize_Carrier_construction_speed_mult: "항공모함 Construction Speed"
+ shipsize_Carrier_hull_add: "항공모함 Hull Points"
+ shipsize_Carrier_build_speed_mult: "항공모함 Build Speed"
+ shipsize_Carrier_build_cost_mult: "항공모함 Build Cost"
 
- shipsize_Dreadnought_upkeep_mult: "Dreadnought Upkeep"
- shipsize_Dreadnought_construction_speed_mult: "Dreadnought Construction Speed"
- shipsize_Dreadnought_hull_add: "Dreadnought Hull Points"
- shipsize_Dreadnought_build_speed_mult: "Dreadnought Build Speed"
- shipsize_Dreadnought_build_cost_mult: "Dreadnought Build Cost"
+ shipsize_Dreadnought_upkeep_mult: "드레드노트 Upkeep"
+ shipsize_Dreadnought_construction_speed_mult: "드레드노트 Construction Speed"
+ shipsize_Dreadnought_hull_add: "드레드노트 Hull Points"
+ shipsize_Dreadnought_build_speed_mult: "드레드노트 Build Speed"
+ shipsize_Dreadnought_build_cost_mult: "드레드노트 Build Cost"
 
- shipsize_Flagship_upkeep_mult: "Flagship Upkeep"
- shipsize_Flagship_construction_speed_mult: "Flagship Construction Speed"
- shipsize_Flagship_hull_add: "Flagship Hull Points"
- shipsize_Flagship_build_speed_mult: "Flagship Build Speed"
- shipsize_Flagship_build_cost_mult: "Flagship Build Cost"
+ shipsize_Flagship_upkeep_mult: "기함 Upkeep"
+ shipsize_Flagship_construction_speed_mult: "기함 Construction Speed"
+ shipsize_Flagship_hull_add: "기함 Hull Points"
+ shipsize_Flagship_build_speed_mult: "기함 Build Speed"
+ shipsize_Flagship_build_cost_mult: "기함 Build Cost"
