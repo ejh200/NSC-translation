@@ -11,7 +11,11 @@
  CARRIER: "항공모함"
  DREADNOUGHT: "드레드노트"
  FLAGSHIP: "기함"
+<<<<<<< HEAD
  SUPPORTSHIP: "군수지원함"
+=======
+ SUPPORTSHIP: "Fleet Support Ship"
+>>>>>>> 280ef08f126950048169b11781b70e20668db665
 
  StrikeCruiser: "타격순양함"
  StrikeCruiser_plural: "타격순양함s"
@@ -23,8 +27,13 @@
  Dreadnought_plural: "드레드노트s"
  Flagship: "기함"
  Flagship_plural: "기함s"
+<<<<<<< HEAD
  supportship:0 "군수지원함"
  supportship_plural:0 "군수지원함s"
+=======
+ supportship:0 "Fleet Support Ship"
+ supportship_plural:0 "Fleet Support Ships"
+>>>>>>> 280ef08f126950048169b11781b70e20668db665
 
  starbase_stronghold: "Solar Stronghold"
  starbase_stronghold_plural: "Solar Strongholds"
@@ -181,8 +190,13 @@
  tech_Flagship_1: "The 기함"
  tech_Flagship_1_desc: "After many decades of combat and engineering experience, we now have the capability to build one massive and unique 기함 to represent our Empire." 
 
+<<<<<<< HEAD
  tech_supportship_1:0 "군수지원함"
  tech_supportship_1_desc:0 "As our fleets grow in size and the distance they travel from home increases, it becomes necessary to support them internally instead of trying to maintain long range supply lines. The 군수지원함 is the answer to this problem." 
+=======
+ tech_supportship_1:0 "Fleet Support Ship"
+ tech_supportship_1_desc:0 "As our fleets grow in size and the distance they travel from home increases, it becomes necessary to support them internally instead of trying to maintain long range supply lines. The Fleet Support Ship is the answer to this problem." 
+>>>>>>> 280ef08f126950048169b11781b70e20668db665
 
  tech_drydock_1: "Starbase Drydock"
  tech_drydock_1_desc: "This specially-designed facility makes use of advanced technology to maintain atmospheric pressures within the Shipyards, allowing workers to more easily build, maintain, upgrade, and repair warships."
@@ -299,7 +313,11 @@
  tech_defense_platforms_4_desc: "Improved technolgies allow us to construct more defense platforms for our starbases."
 
  tech_nsc_ai_computer_1: "Artifical Intellgience Combat System"
+<<<<<<< HEAD
  tech_nsc_ai_computer_1_desc: "This extremely advanced computer system can intelligently run all combat systems on a ship without taking over the helm, allowing for complete movement control during combat. Available for Carriers, 군수지원함s, and the 기함."
+=======
+ tech_nsc_ai_computer_1_desc: "This extremely advanced computer system can intelligently run all combat systems on a ship without taking over the helm, allowing for complete movement control during combat. Available for Carriers, Fleet Support Ships, and the 기함."
+>>>>>>> 280ef08f126950048169b11781b70e20668db665
 
  tech_tomahawk_cruise_missile_1: "Tomahawk Advanced Cruise Missile"
  tech_tomahawk_cruise_missile_1_desc: "An extremely expensive anti-capital ship missile with a very long range and high damage. Very useful for defense stations or long range artillery ships."
@@ -358,8 +376,13 @@
  TECH_UNLOCK_FLAGSHIP_CONSTRUCTION_TITLE: "§HUnlocks Ship Type:§! 기함"
  TECH_UNLOCK_FLAGSHIP_CONSTRUCTION_DESC: "§H기함§!\nThe largest ship design ever conceived, the 기함 boasts a massive amount of firepower and armor, provides extensive bonuses, and costs a significant amount of an empire's total resources to build and maintain."
 
+<<<<<<< HEAD
  TECH_UNLOCK_SUPPORTSHIP_CONSTRUCTION_TITLE:0 "군수지원함"
  TECH_UNLOCK_SUPPORTSHIP_CONSTRUCTION_DESC:0 "§H군수지원함§!\nAs our fleets grow in size and the distance they travel from home increases, it becomes necessary to support them internally instead of trying to maintain long range supply lines. The 군수지원함 is the answer to this problem."
+=======
+ TECH_UNLOCK_SUPPORTSHIP_CONSTRUCTION_TITLE:0 "Fleet Support Ship"
+ TECH_UNLOCK_SUPPORTSHIP_CONSTRUCTION_DESC:0 "§HFleet Support Ship§!\nAs our fleets grow in size and the distance they travel from home increases, it becomes necessary to support them internally instead of trying to maintain long range supply lines. The Fleet Support Ship is the answer to this problem."
+>>>>>>> 280ef08f126950048169b11781b70e20668db665
 
  TECH_UNLOCK_DRYDOCK_CONSTRUCTION_TITLE: "§HUnlocks Starbase Module:§! Drydock"
  TECH_UNLOCK_DRYDOCK_CONSTRUCTION_DESC: "§HDrydock§!\nThis specially-designed facility makes use of advanced technology to maintain atmospheric pressures within the Shipyards, allowing workers to more easily build, maintain, upgrade, and repair warships."
@@ -389,7 +412,11 @@
  TECH_UNLOCK_POWER_STATON_CONSTRUCTION_DESC: "§HPower Station§!\nSystem wide energy grid that enhances energy production for the entire system."
 
  TECH_UNLOCK_AICOMPUTER_CONSTRUCTION_TITLE: "§HUnlocks Combat Computer:§! Artificial Intelligence Combat System"
+<<<<<<< HEAD
  TECH_UNLOCK_AICOMPUTER_CONSTRUCTION_DESC: "§HAI Combat System§!\nThis extremely advanced computer system can intelligently run all combat systems on a ship without taking over the helm, allowing for complete movement control during combat. Available for 항공모함s, 군수지원함s, and the 기함."
+=======
+ TECH_UNLOCK_AICOMPUTER_CONSTRUCTION_DESC: "§HAI Combat System§!\nThis extremely advanced computer system can intelligently run all combat systems on a ship without taking over the helm, allowing for complete movement control during combat. Available for 항공모함s, Fleet Support Ships, and the 기함."
+>>>>>>> 280ef08f126950048169b11781b70e20668db665
 
  TECH_UNLOCK_CRUISEMISSILE_CONSTRUCTION_TITLE: "§HUnlocks Weapon:§! Tomahawk Advanced Cruise Missile"
  TECH_UNLOCK_CRUISEMISSILE_CONSTRUCTION_DESC: "§HTomahawk Advanced Cruise Missile§!\nAn extremely expensive anti-capital ship missile with a very long range and high damage. Very useful for defense stations or long range artillery ships."
