@@ -16,7 +16,7 @@
  StrikeCruiser: "타격순양함"
  StrikeCruiser_plural: "타격순양함s"
  Battlecruiser: "전투순양함"
- Battlecruiser_plural: "Battlecruisers" 
+ Battlecruiser_plural: "전투순양함" 
  Carrier: "항공모함"
  Carrier_plural: "항공모함s"
  Dreadnought: "드레드노트"
@@ -26,27 +26,27 @@
  supportship:0 "군수지원함"
  supportship_plural:0 "군수지원함s"
 
- starbase_stronghold: "Solar Stronghold"
- starbase_stronghold_plural: "Solar Strongholds"
+ starbase_stronghold: "항성 요새"
+ starbase_stronghold_plural: "항성 요새"
 
- xl_cannon: "Annihilator Cannon"
- xl_cannon_plural: "Annihilator Cannons"
+ xl_cannon: "섬멸포"
+ xl_cannon_plural: "섬멸포"
 
- military_station_small: "Defense Platform"
- military_station_small_plural: "Defense Platforms"
- military_station_medium: "Defense Station"
- military_station_medium_plural: "Defense Stations"
- military_station_large: "Defense Fortress"
- military_station_large_plural: "Defense Fortresses"
+ military_station_small: "방어 플랫폼"
+ military_station_small_plural: "방어 플랫폼"
+ military_station_medium: "방어 정거장"
+ military_station_medium_plural: "방어 정거장"
+ military_station_large: "방어 요새"
+ military_station_large_plural: "방어 요새"
  
- sm_drydock: "Drydock"
- sm_drydock_desc: "This specially-designed facility makes use of advanced technology to maintain atmospheric pressures within the Shipyards, allowing workers to more easily build, maintain, upgrade, and repair warships.\n"
+ sm_drydock: "드라이독"
+ sm_drydock_desc: "조선소의의 대기압력을 유지하기위해 진보된 기술을 사용하여 특별하게 설계된 이 시설은, 더 적은 비용으로 군용 선박의 생산, 유지, 기능향상과 수리를 가능하게합니다.\n"
 
- sm_sensor_station: "Sensor Station"
- sm_sensor_station_desc: "The starbase sensor station assists in monitoring our borders for possible threats.\n"
+ sm_sensor_station: "센서스테이션"
+ sm_sensor_station_desc: "이 감청, 감지기지는 발생가능성있는 우리 제국의 국경 위협의 감지를 보조해줍니다.\n"
  
- sm_solar_panel_01:0 "Solar Panel Network"
- sm_solar_panel_01_desc:0 "Small network of solar panels to help alleviate station upkeep and generate surplus energy."
+ sm_solar_panel_01:0 "태양열 발전판 연결망 "
+ sm_solar_panel_01_desc:0 "태양광 발전패널 연결망은 스테이션의 유지비를 완화해줌으로써, 더많은 에너지를 생산할수있게 도와줍니다."
  sm_solar_panel_02:0 "$sm_solar_panel_01$"
  sm_solar_panel_02_desc:0 "$sm_solar_panel_01_desc$"
  sm_solar_panel_03:0 "$sm_solar_panel_01$"
@@ -70,47 +70,47 @@
  sm_solar_panel_12:0 "$sm_solar_panel_01$"
  sm_solar_panel_12_desc:0 "$sm_solar_panel_01_desc$"
 
- sm_hq_annex: "Naval Headquarters"
- sm_hq_annex_desc: "An advanced command center for the Solar Stronghold starbase that provides significant bonuses to our empire."
+ sm_hq_annex: "해군본부"
+ sm_hq_annex_desc: "항성요새를 위한 이 진보된 해군사령부는 우리 제국에 특별한 버프를 제공합다."
 
- sm_starbase_management: "Starbase Administrator"
+ sm_starbase_management: "행정관리센터"
  starbase_management_desc: "New advances in micromanagement allow this building to do the same amount of nothing as was done before, but much more efficiently."
  
- sm_customs_office: "Starbase Customs Office"
+ sm_customs_office: "세관/이민국"
  sm_customs_office_desc: "Central location for all immigration for the system."
 
- sm_starbase_management_machine: "Starbase Network Hub"
+ sm_starbase_management_machine: "네트워크 허브"
  starbase_management_machine_desc: "01000101 01110010 01110010 01101111 01110010 00100000 00110100 00110000 00110100 0001010"
 
- sm_starbase_management_hive: "Starbase Lair"
- starbase_management_hive_desc: "We are one."
+ sm_starbase_management_hive: "우주굴"
+ starbase_management_hive_desc: "우리는 하나인데수."
 
- stb_headquarters: "Headquarters"
- stb_headquarters_desc: "The main command center for the entire fleet."
+ stb_headquarters: "본부"
+ stb_headquarters_desc: "제국 해군 함대의 지휘본부."
 
- sm_mining_base: "System Mineral Refinery"
- sm_mining_base_desc: "Increases system-wide mineral production."
+ sm_mining_base: "항성계 정제소"
+ sm_mining_base_desc: "이 성계의 광물 채산성을 증가시킵니다."
 
- sm_power_station: "System Energy Grid"
- sm_power_station_desc: "Increases system-wide energy production."
- sm_power_station_desc_modifier:0 "$SYSTEM_MODIFIER$\n$TAB$$tile_resource_energy_mult$ §G+25%§!\n$COUNTRY_MODIFIER$\n$TAB$$max_energy$ §G+2500§!\n$STATION_MODIFIER$\n$TAB$$sm_solar_panel_01$: §G+1§! £energy\n\n"
+ sm_power_station: "항성계 에너지그리드"
+ sm_power_station_desc: "이 성계의 에너지 발전량을 증가시킵니다."
+ sm_power_station_desc_modifier:0 "$SYSTEM_MODIFIER$\n$TAB$$tile_resource_energy_mult$ §G+25%§!\n$COUNTRY_MODIFIER$\n$TAB$$max_energy$ §G+2500§!\n$STATION_MODIFIER$\n$TAB$$sm_solar_panel_01$: §G+1§! £에너지\n\n"
 
- STRIKE_CRAFT_HANGAR_1: "Basic Fighters"
+ STRIKE_CRAFT_HANGAR_1: "전투기 편대"
  STRIKE_CRAFT_HANGAR_1_DESC: "A Basic Bomber Wing is equipped with a comparatively minimal payload, deployed to assault larger enemy vessels from up close."
 
- STRIKE_CRAFT_HANGAR_2: "Improved Fighters"
+ STRIKE_CRAFT_HANGAR_2: "전투기II 편대"
  STRIKE_CRAFT_HANGAR_2_DESC: "Improved Bombers deal increased damage to enemy military ships."
 
- STRIKE_CRAFT_HANGAR_3: "Advanced Fighters"
+ STRIKE_CRAFT_HANGAR_3: "전투기III 편대"
  STRIKE_CRAFT_HANGAR_3_DESC: "Advanced Bombers deftly navigate stellar battlefields to approach enemy ships from unexpected angles, delivering explosive payloads."
 
- STRIKE_CRAFT_HANGAR_4: "Basic Bombers"
+ STRIKE_CRAFT_HANGAR_4: "폭격기 편대"
  STRIKE_CRAFT_HANGAR_4_DESC: "A Basic Bomber Wing is equipped with a comparatively minimal payload, deployed to assault larger enemy vessels from up close."
 
- STRIKE_CRAFT_HANGAR_5: "Improved Bombers"
+ STRIKE_CRAFT_HANGAR_5: "폭격기II 편대"
  STRIKE_CRAFT_HANGAR_5_DESC: "Improved Bombers deal increased damage to enemy military ships."
 
- STRIKE_CRAFT_HANGAR_6: "Advanced Bombers"
+ STRIKE_CRAFT_HANGAR_6: "폭격기III 편대"
  STRIKE_CRAFT_HANGAR_6_DESC: "Advanced Bombers deftly navigate stellar battlefields to approach enemy ships from unexpected angles, delivering explosive payloads."
 
 
